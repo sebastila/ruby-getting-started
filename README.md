@@ -1,4 +1,4 @@
-# ruby-getting-started
+# Ruby Sample
 
 A barebones Rails app, which can easily be deployed to Heroku.
 
